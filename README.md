@@ -7,7 +7,7 @@ The pipeline transforms raw data into business-ready insights, securely governed
 ---
 
 ## 🧩 Architecture Overview
-![Databricks Medallion Architecture](assets/Databricks_Diagram.png)
+![Databricks Medallion Architecture](https://github.com/rishigundla/adventureworks-databricks-project/blob/main/assets/Databricks%20Diagram.drawio%20(1).png)
 
 ---
 
@@ -26,7 +26,7 @@ The pipeline transforms raw data into business-ready insights, securely governed
    - Optimized tables serve as the data source for BI tools.  
 
 4. **Data Visualization**  
-   - Cleaned and transformed data visualized in **Power BI** or **Tableau** for insights.  
+   - Cleaned and transformed data can be visualized in **Power BI** or **Tableau** for insights.  
 
 ---
 
@@ -84,16 +84,6 @@ The pipeline transforms raw data into business-ready insights, securely governed
 | `notebooks/` | All Databricks notebooks for Bronze, Silver, and Gold layers |
 | `assets/` | Contains architecture diagram and visuals |
 | `README.md` | Documentation for the entire project |
-| `LICENSE` | Optional license for open sharing |
-
----
-
-## 💡 Future Enhancements
-
-- Automate ingestion using **Azure Data Factory (ADF)**.  
-- Implement **Delta Live Tables** for real-time ingestion.  
-- Add **Unity Catalog Lineage tracking** visualization.  
-- Create **Power BI dashboards** with row-level security (RLS).  
 
 ---
 
