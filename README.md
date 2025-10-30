@@ -1,4 +1,4 @@
-# 🧠 Databricks End-to-End ETL Project — Medallion Architecture
+# 🧠 Adventure Works ETL Project — Medallion Architecture
 
 ## 🚀 Overview
 This beginner-friendly project demonstrates how to design and implement an **end-to-end data engineering pipeline** using **Azure Databricks**, **Delta Lake**, and **Unity Catalog**, following the **Medallion Architecture** (Bronze → Silver → Gold).  
